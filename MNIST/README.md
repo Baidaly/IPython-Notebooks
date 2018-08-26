@@ -1,0 +1,1 @@
+Based on https://engmrk.com/module-14-artificial-neural-network/
